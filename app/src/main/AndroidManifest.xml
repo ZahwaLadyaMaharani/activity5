@@ -9,6 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.ConstraintLayoutEvenButton">
+        <activity
+            android:name=".FormDaftar"
+            android:parentActivityName=".MainActivity"></activity>
         <activity android:name=".ActivityKedua"
             android:parentActivityName=".MainActivity"
             android:label="@string/label2"></activity>
