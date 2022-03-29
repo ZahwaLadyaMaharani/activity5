@@ -3,10 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Project PAM/ConstraintLayoutEvenButton/app/src/main/res/layout/activity_home.xml" value="0.184375" />
         <entry key="..\:/Project PAM/ConstraintLayoutEvenButton/app/src/main/res/layout/activity_kedua.xml" value="0.136" />
+        <entry key="..\:/Project PAM/ConstraintLayoutEvenButton/app/src/main/res/layout/activity_lihat_data.xml" value="0.184375" />
         <entry key="..\:/Project PAM/ConstraintLayoutEvenButton/app/src/main/res/layout/activity_main.xml" value="0.152" />
+        <entry key="..\:/Project PAM/ConstraintLayoutEvenButton/app/src/main/res/layout/home_activity.xml" value="0.184375" />
+        <entry key="..\:/Project PAM/ConstraintLayoutEvenButton/app/src/main/res/layout/item_listview.xml" value="0.2" />
         <entry key="..\:/Project PAM/ConstraintLayoutEvenButton/app/src/main/res/layout/menu.xml" value="0.16" />
         <entry key="..\:/Project PAM/ConstraintLayoutEvenButton/app/src/main/res/menu/menu.xml" value="0.1796875" />
+        <entry key="..\:/Project PAM/ConstraintLayoutEvenButton/app/src/main/res/menu/popup_menu.xml" value="0.184375" />
       </map>
     </option>
   </component>
